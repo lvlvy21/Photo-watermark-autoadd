@@ -1,0 +1,30 @@
+{
+  "common": {
+    "language": "Idioma",
+    "title": "Ferramenta de marca d’água em lote (data EXIF + GPS)",
+    "subtitle": "Extraia EXIF localmente e componha marcas d’água em lote com Web Worker.",
+    "googleSignin": "Entrar com Google",
+    "googleSigninFailed": "Falha no login Google. Verifique o Firebase.",
+    "logout": "Sair",
+    "currentUser": "Usuário atual: {value}",
+    "uploadTitle": "Upload por arrastar e soltar",
+    "dropHint": "Arraste fotos aqui ou clique para selecionar",
+    "dropHintActive": "Solte para enviar",
+    "pendingFiles": "Arquivos pendentes: {count}",
+    "clear": "Limpar",
+    "processTitle": "Composição da marca d’água",
+    "startProcess": "Iniciar geração em lote",
+    "processingPercent": "Processando {percentage}%",
+    "processedProgress": "Concluído {done} / {total}",
+    "processedResults": "Resultados: {count}",
+    "download": "Baixar",
+    "historyTitle": "Histórico (Firestore)",
+    "historyEmpty": "Faça login para ver o histórico.",
+    "historyItem": "Quantidade: {count} | Timestamp: {time}",
+    "unknownDate": "Data desconhecida",
+    "unknownLocation": "Local desconhecido",
+    "watermarkDateLabel": "Data:",
+    "watermarkLocationLabel": "Local:",
+    "processFailed": "Falha no processamento em lote."
+  }
+}

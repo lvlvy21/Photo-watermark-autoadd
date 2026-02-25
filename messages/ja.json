@@ -1,0 +1,30 @@
+{
+  "common": {
+    "language": "言語",
+    "title": "一括写真透かしツール（EXIF日時 + GPS位置）",
+    "subtitle": "ローカルでEXIFを抽出し、Web Workerで一括透かし合成します。",
+    "googleSignin": "Googleでログイン",
+    "googleSigninFailed": "Googleログインに失敗しました。Firebase設定を確認してください。",
+    "logout": "ログアウト",
+    "currentUser": "現在のユーザー: {value}",
+    "uploadTitle": "ドラッグ＆ドロップアップロード",
+    "dropHint": "写真をここにドラッグ、またはクリックして選択",
+    "dropHintActive": "ドロップしてアップロード",
+    "pendingFiles": "処理待ちファイル: {count}",
+    "clear": "クリア",
+    "processTitle": "透かし合成",
+    "startProcess": "一括透かし生成を開始",
+    "processingPercent": "処理中 {percentage}%",
+    "processedProgress": "完了 {done} / {total}",
+    "processedResults": "処理結果: {count}",
+    "download": "ダウンロード",
+    "historyTitle": "処理履歴（Firestore）",
+    "historyEmpty": "履歴を表示するにはログインしてください。",
+    "historyItem": "件数: {count} | タイムスタンプ: {time}",
+    "unknownDate": "不明な日時",
+    "unknownLocation": "不明な場所",
+    "watermarkDateLabel": "日時:",
+    "watermarkLocationLabel": "場所:",
+    "processFailed": "一括処理に失敗しました。"
+  }
+}
