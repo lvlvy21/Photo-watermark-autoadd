@@ -1,0 +1,25 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+exports.id = "_rsc_messages_zh_json";
+exports.ids = ["_rsc_messages_zh_json"];
+exports.modules = {
+
+/***/ "(rsc)/./messages/zh.json":
+/*!**************************!*\
+  !*** ./messages/zh.json ***!
+  \**************************/
+/***/ ((module) => {
+
+module.exports = /*#__PURE__*/JSON.parse('{"common":{"language":"语言","title":"批量照片水印工具（EXIF 时间 + GPS 地点）","subtitle":"本地提取 EXIF，并通过 Web Worker 高性能批量合成水印。","googleSignin":"Google 登录","googleSigninFailed":"Google 登录失败，请检查 Firebase 配置与授权域名。","logout":"退出登录","currentUser":"当前用户：{value}","uploadTitle":"拖拽上传","dropHint":"拖拽照片到这里，或点击选择文件","dropHintActive":"松开以上传文件","pendingFiles":"待处理文件：{count}","clear":"清空","processTitle":"水印合成","startProcess":"开始批量生成水印图","processingPercent":"处理中 {percentage}%","processedProgress":"已完成 {done} / {total}","processedResults":"处理结果：{count}","download":"下载","historyTitle":"处理历史（Firestore）","historyEmpty":"登录后显示历史（仅数量和时间，不存图片）。","historyItem":"处理数量：{count} ｜ 时间戳：{time}","unknownDate":"未知拍摄时间","unknownLocation":"未知拍摄地点","watermarkDateLabel":"日期：","watermarkLocationLabel":"地点：","processFailed":"批量处理失败，请重试或减少文件数量。"}}');
+
+/***/ })
+
+};
+;

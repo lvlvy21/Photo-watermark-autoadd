@@ -1,0 +1,30 @@
+{
+  "common": {
+    "language": "Langue",
+    "title": "Outil de filigrane photo en lot (date EXIF + GPS)",
+    "subtitle": "Extrayez EXIF localement et composez des filigranes en lot via Web Worker.",
+    "googleSignin": "Se connecter avec Google",
+    "googleSigninFailed": "Échec de connexion Google. Vérifiez Firebase.",
+    "logout": "Se déconnecter",
+    "currentUser": "Utilisateur actuel : {value}",
+    "uploadTitle": "Téléversement glisser-déposer",
+    "dropHint": "Glissez les photos ici ou cliquez pour choisir",
+    "dropHintActive": "Relâchez pour téléverser",
+    "pendingFiles": "Fichiers en attente : {count}",
+    "clear": "Effacer",
+    "processTitle": "Composition du filigrane",
+    "startProcess": "Démarrer le traitement en lot",
+    "processingPercent": "Traitement {percentage}%",
+    "processedProgress": "Terminé {done} / {total}",
+    "processedResults": "Résultats : {count}",
+    "download": "Télécharger",
+    "historyTitle": "Historique (Firestore)",
+    "historyEmpty": "Connectez-vous pour voir l'historique.",
+    "historyItem": "Nombre : {count} | Horodatage : {time}",
+    "unknownDate": "Date inconnue",
+    "unknownLocation": "Lieu inconnu",
+    "watermarkDateLabel": "Date :",
+    "watermarkLocationLabel": "Lieu :",
+    "processFailed": "Échec du traitement en lot."
+  }
+}

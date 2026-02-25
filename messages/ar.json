@@ -1,0 +1,30 @@
+{
+  "common": {
+    "language": "اللغة",
+    "title": "أداة العلامة المائية للصور دفعة واحدة (EXIF + GPS)",
+    "subtitle": "استخرج EXIF محليًا وأنشئ العلامات المائية دفعة واحدة عبر Web Worker.",
+    "googleSignin": "تسجيل الدخول عبر Google",
+    "googleSigninFailed": "فشل تسجيل الدخول عبر Google. تحقق من Firebase.",
+    "logout": "تسجيل الخروج",
+    "currentUser": "المستخدم الحالي: {value}",
+    "uploadTitle": "رفع بالسحب والإفلات",
+    "dropHint": "اسحب الصور هنا أو انقر للاختيار",
+    "dropHintActive": "أفلت للرفع",
+    "pendingFiles": "الملفات المعلقة: {count}",
+    "clear": "مسح",
+    "processTitle": "تركيب العلامة المائية",
+    "startProcess": "ابدأ المعالجة الجماعية",
+    "processingPercent": "جارٍ المعالجة {percentage}%",
+    "processedProgress": "تم {done} / {total}",
+    "processedResults": "النتائج المعالجة: {count}",
+    "download": "تنزيل",
+    "historyTitle": "سجل المعالجة (Firestore)",
+    "historyEmpty": "سجّل الدخول لعرض السجل.",
+    "historyItem": "العدد: {count} | الوقت: {time}",
+    "unknownDate": "تاريخ غير معروف",
+    "unknownLocation": "موقع غير معروف",
+    "watermarkDateLabel": "التاريخ:",
+    "watermarkLocationLabel": "الموقع:",
+    "processFailed": "فشلت المعالجة الجماعية."
+  }
+}

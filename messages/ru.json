@@ -1,0 +1,30 @@
+{
+  "common": {
+    "language": "Язык",
+    "title": "Инструмент пакетного водяного знака (EXIF дата + GPS)",
+    "subtitle": "Локально извлекайте EXIF и пакетно накладывайте водяные знаки через Web Worker.",
+    "googleSignin": "Войти через Google",
+    "googleSigninFailed": "Ошибка входа Google. Проверьте Firebase.",
+    "logout": "Выйти",
+    "currentUser": "Текущий пользователь: {value}",
+    "uploadTitle": "Перетаскивание файлов",
+    "dropHint": "Перетащите фото сюда или нажмите для выбора",
+    "dropHintActive": "Отпустите для загрузки",
+    "pendingFiles": "Ожидающие файлы: {count}",
+    "clear": "Очистить",
+    "processTitle": "Наложение водяного знака",
+    "startProcess": "Начать пакетную обработку",
+    "processingPercent": "Обработка {percentage}%",
+    "processedProgress": "Готово {done} / {total}",
+    "processedResults": "Результаты: {count}",
+    "download": "Скачать",
+    "historyTitle": "История (Firestore)",
+    "historyEmpty": "Войдите, чтобы увидеть историю.",
+    "historyItem": "Количество: {count} | Время: {time}",
+    "unknownDate": "Неизвестная дата",
+    "unknownLocation": "Неизвестное место",
+    "watermarkDateLabel": "Дата:",
+    "watermarkLocationLabel": "Место:",
+    "processFailed": "Ошибка пакетной обработки."
+  }
+}
