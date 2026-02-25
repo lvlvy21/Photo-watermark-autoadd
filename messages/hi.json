@@ -1,0 +1,30 @@
+{
+  "common": {
+    "language": "भाषा",
+    "title": "बैच फोटो वॉटरमार्क टूल (EXIF तारीख + GPS स्थान)",
+    "subtitle": "स्थानीय EXIF पढ़ें और Web Worker से बैच वॉटरमार्क बनाएं।",
+    "googleSignin": "Google से साइन इन करें",
+    "googleSigninFailed": "Google साइन-इन विफल। Firebase जाँचें।",
+    "logout": "लॉग आउट",
+    "currentUser": "वर्तमान उपयोगकर्ता: {value}",
+    "uploadTitle": "ड्रैग एंड ड्रॉप अपलोड",
+    "dropHint": "फोटो यहाँ छोड़ें या चुनने के लिए क्लिक करें",
+    "dropHintActive": "अपलोड करने के लिए छोड़ें",
+    "pendingFiles": "लंबित फाइलें: {count}",
+    "clear": "साफ़ करें",
+    "processTitle": "वॉटरमार्क संयोजन",
+    "startProcess": "बैच वॉटरमार्क शुरू करें",
+    "processingPercent": "प्रोसेसिंग {percentage}%",
+    "processedProgress": "पूर्ण {done} / {total}",
+    "processedResults": "प्रोसेस्ड परिणाम: {count}",
+    "download": "डाउनलोड",
+    "historyTitle": "प्रोसेस इतिहास (Firestore)",
+    "historyEmpty": "इतिहास देखने के लिए लॉगिन करें।",
+    "historyItem": "गिनती: {count} | समय: {time}",
+    "unknownDate": "अज्ञात समय",
+    "unknownLocation": "अज्ञात स्थान",
+    "watermarkDateLabel": "तारीख:",
+    "watermarkLocationLabel": "स्थान:",
+    "processFailed": "बैच प्रोसेस विफल।"
+  }
+}
